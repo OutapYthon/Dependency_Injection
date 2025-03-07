@@ -1,13 +1,15 @@
 package metier;
 
+import dao.DaoImpl;
 import dao.IDao;
 
 public class MetierImpl implements IMetier {
     private IDao dao;
 
-    public MetierImpl() {
+    public MetierImpl(IDao dao) {
+        this.dao = dao;
     }
-
+    public MetierImpl() {}
     public double calculate() {
         double t = this.dao.getData();
         double res = t * (double)23.0F;

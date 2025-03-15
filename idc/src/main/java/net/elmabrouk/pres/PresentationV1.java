@@ -1,7 +1,7 @@
-package pres;
+package net.elmabrouk.pres;
 
-import ext.DaoImplV2;
-import metier.MetierImpl;
+import net.elmabrouk.ext.DaoImplV2;
+import net.elmabrouk.metier.MetierImpl;
 
 public class PresentationV1 {
 

@@ -1,11 +1,9 @@
-package pres;
+package net.elmabrouk.pres;
 
-import dao.IDao;
-import metier.IMetier;
-import metier.MetierImpl;
+import net.elmabrouk.dao.IDao;
+import net.elmabrouk.metier.IMetier;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 

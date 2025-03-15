@@ -1,7 +1,6 @@
-package metier;
+package net.elmabrouk.metier;
 
-import dao.DaoImpl;
-import dao.IDao;
+import net.elmabrouk.dao.IDao;
 
 public class MetierImpl implements IMetier {
     private IDao dao;

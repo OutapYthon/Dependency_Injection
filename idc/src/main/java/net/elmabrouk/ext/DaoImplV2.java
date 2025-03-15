@@ -1,6 +1,6 @@
-package ext;
+package net.elmabrouk.ext;
 
-import dao.IDao;
+import net.elmabrouk.dao.IDao;
 
 public class DaoImplV2 implements IDao {
 

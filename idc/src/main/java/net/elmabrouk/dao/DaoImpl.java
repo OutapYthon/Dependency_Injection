@@ -1,4 +1,4 @@
-package dao;
+package net.elmabrouk.dao;
 
 public class DaoImpl implements IDao {
     public DaoImpl() {

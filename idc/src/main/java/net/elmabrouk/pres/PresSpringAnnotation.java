@@ -10,6 +10,6 @@ public class PresSpringAnnotation {
         ApplicationContext context =
                 new AnnotationConfigApplicationContext("net.elmabrouk");
         IMetier metier = (IMetier)context.getBean(IMetier.class);
-        System.out.println(metier.calculate())
+        System.out.println(metier.calculate());
     }
 }

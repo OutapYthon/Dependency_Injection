@@ -37,7 +37,7 @@ Spring (Annotations) → ```PresSpringAnnotation.java```
 ##🛠️ Exécution
 Instanciation statique :
 
-```net.elmabrouk.pres.PresentationV1```
+```net.outazarine.pres.PresentationV1```
 Implementation DAO:
 
 ![staticBD](images/StaticBD.png)
@@ -48,7 +48,7 @@ Implementation EXT:
 
 Instanciation dynamique :
 
-```net.elmabrouk.pres.PresentationV2```
+```net.outazarine.pres.PresentationV2```
 Implementation DAO:
 
 ![DynamicBD](images/DynamicBD.png)

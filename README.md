@@ -11,7 +11,7 @@ Ce projet illustre l'injection de dépendances en Java à travers trois approche
 📂 src
 ├── 📂 main
 │   ├── 📂 java
-│   │   ├── 📂 net.outazarube
+│   │   ├── 📂 net.outazarine
 │   │   │   ├── 📂 dao
 │   │   │   ├── 📂 ext
 │   │   │   ├── 📂 metier

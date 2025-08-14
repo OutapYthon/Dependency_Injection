@@ -11,7 +11,7 @@ Ce projet illustre l'injection de dépendances en Java à travers trois approche
 📂 src
 ├── 📂 main
 │   ├── 📂 java
-│   │   ├── 📂 net.elmabrouk
+│   │   ├── 📂 net.outazarube
 │   │   │   ├── 📂 dao
 │   │   │   ├── 📂 ext
 │   │   │   ├── 📂 metier
@@ -59,7 +59,7 @@ Implementation EXT:
 
 Injection via Spring (XML) :
 
-```net.elmabrouk.pres.PresSpringXML```
+```net.outazarine.pres.PresSpringXML```
 Implementation DAO:
 
 ![XMLBD](images/xmlBD.png)
@@ -70,7 +70,7 @@ Implementation EXT:
 
 Injection via Spring (Annotations) :
 
-```net.elmabrouk.pres.PresSpringAnnotation```
+```net.outazarine.pres.PresSpringAnnotation```
 Implementation DAO:
 
 ![AnnotationBD](images/AnnotationBD.png)
